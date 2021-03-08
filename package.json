@@ -2,7 +2,7 @@
   "name": "dogbreed",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://karthik-v-dev.github.io/dogbreed/",
+  "homepage": "https://karthik-v-dev.github.io/dogbreed",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
